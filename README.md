@@ -9,3 +9,8 @@ HardHead Detection for Safety Surveilance
 #### Dataset Size:
 * Data with Annotations: 4,750
 * Data without Annotations (Test): 250
+
+## **Reference:**
+
+* [Automatic Hardhat Wearing Detection - Caffe](https://github.com/wujixiu/helmet-detection)
+* [Helmet Detection using YOLOv2 in Keras](https://github.com/rekon/keras-yolo2)
