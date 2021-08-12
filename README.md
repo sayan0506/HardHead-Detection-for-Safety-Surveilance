@@ -1,7 +1,9 @@
 # HardHead-Detection-for-Safety-Surveilance
 HardHead Detection for Safety Surveilance
 
-## **Problem Statement•Task: Build A Personal Safety Equipment Detection System**
+## **Problem Statement - [sharepoint link](https://wobotintelligence-my.sharepoint.com/personal/hr_wobot_ai/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhr%5Fwobot%5Fai%2FDocuments%2FHackathon%2D%20Extended%20%288th%20August%29%2FHackathon%204%2E0%2Epdf&parent=%2Fpersonal%2Fhr%5Fwobot%5Fai%2FDocuments%2FHackathon%2D%20Extended%20%288th%20August%29&originalPath=aHR0cHM6Ly93b2JvdGludGVsbGlnZW5jZS1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9ocl93b2JvdF9haS9FWU1KcVBRUWpDMUVrZ1JWZi1qMEdYTUJJTy0taEQ3YjBBX1JqRXZ4dnNfTnJRP3J0aW1lPTlHcjFXcjlkMlVn)
+
+•Task: Build A Personal Safety Equipment Detection System**
 
 #### Dataset Details:•
    * Hardhat/ head detection dataset is available here - [Dataset Link](https://wobotintelligence-my.sharepoint.com/personal/animikh_wobot_ai/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fanimikh%5Fwobot%5Fai%2FDocuments%2FHackathon%2FDataset&originalPath=aHR0cHM6Ly93b2JvdGludGVsbGlnZW5jZS1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9hbmltaWtoX3dvYm90X2FpL0Vnc3hvcTV6YW1wUGpmbm9KbFB6X3owQkFyODdLWGttSXZZNkRLclRDTnltYWc%5FcnRpbWU9eGxyZ1J2OWMyVWc)
