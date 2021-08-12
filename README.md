@@ -13,4 +13,5 @@ HardHead Detection for Safety Surveilance
 ## **Reference:**
 
 * [Automatic Hardhat Wearing Detection - Caffe](https://github.com/wujixiu/helmet-detection)
+* [Hardhat (Helmet) detection from construction site using YOLOv3_tiny with TensorFlow](https://github.com/rashidch/Yolov3_tiny-Hardhat-detection_Tensorflow)
 * [Helmet Detection using YOLOv2 in Keras](https://github.com/rekon/keras-yolo2)
