@@ -19,3 +19,4 @@ HardHead Detection for Safety Surveilance
 * [Helmet Detection using YOLOv2 in Keras](https://github.com/rekon/keras-yolo2)
 * [YoloV3 Implemented in TensorFlow 2.0](https://github.com/zzh8829/yolov3-tf2)
 * [Faster video file FPS with cv2.VideoCapture and OpenCV](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)
+* [Dive Really Deep into YOLO v3](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)
