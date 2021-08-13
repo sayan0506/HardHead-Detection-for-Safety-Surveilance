@@ -15,6 +15,7 @@ HardHead Detection for Safety Surveilance
 ## **Reference:**
 
 * [Dive Really Deep into YOLO v3](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)
+* [mAP (mean Average Precision) for Object Detection](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 * [Automatic Hardhat Wearing Detection - Caffe](https://github.com/wujixiu/helmet-detection)
 * [Hardhat (Helmet) detection from construction site using YOLOv3_tiny with TensorFlow](https://github.com/rashidch/Yolov3_tiny-Hardhat-detection_Tensorflow)
 * [Helmet Detection using YOLOv2 in Keras](https://github.com/rekon/keras-yolo2)
