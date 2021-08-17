@@ -32,6 +32,11 @@ Here also helmet detection result is quite good enough
 
 ![Helmet_2](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/helmet_2.jpg)
 
+## **Note :**
+
+* The project details and workings files can be found here - [Drive Link](https://drive.google.com/drive/folders/1zKN6qu5KjsXS4mlESZPjD_TKHf9-Zfcc?usp=sharing)
+* A guide to the project documentation can be found [here]()
+
 ## **Reference:**
 
 * [Dive Really Deep into YOLO v3](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)
