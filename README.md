@@ -27,6 +27,9 @@ Head detection - Here we can find that as in the dataset there are less head dat
 
 ![Image2](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/head_1.jpg)
 
+For this clean single person image head detection though is good
+![Head2]()
+
 Here also helmet detection result is quite good enough
 
 ![Helmet_2](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/helmet_2.jpg)
