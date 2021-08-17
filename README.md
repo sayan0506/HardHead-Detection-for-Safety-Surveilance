@@ -22,9 +22,13 @@ Sample Helmet and Head detection results can be found here.
 
 Helmet detection
 ![Image1](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/helmet_1.jpg)
+
 Head detection - Here we can find that as in the dataset there are less head data as compared to helmet sets, so the model is not that good enough in finding heads in the images
+
 ![Image2](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/head_1.jpg)
+
 Here also helmet detection result is quite good enough
+
 ![]()
 
 ## **Reference:**
