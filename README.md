@@ -21,7 +21,7 @@ The entire **Helmet/Head object detection** implementation pipeline using **Yolo
 Sample Helmet and Head detection results can be found here.
 
 ![Image1](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Images/helmet_1.jpg)
-[]
+![Image2]()
 
 ## **Reference:**
 
