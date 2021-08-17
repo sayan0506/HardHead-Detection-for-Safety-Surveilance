@@ -12,6 +12,10 @@ HardHead Detection for Safety Surveilance
 * Data with Annotations: 4,750
 * Data without Annotations (Test): 250
 
+## **Collab Implemenetation**
+
+The entire object detection implementation pipeline can be found here **[colab_notebook](https://colab.research.google.com/drive/1Z3Y62pOOKiU1cuIMkFWf5j2udOcW14N5?usp=sharing)**
+
 ## **Reference:**
 
 * [Dive Really Deep into YOLO v3](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)
