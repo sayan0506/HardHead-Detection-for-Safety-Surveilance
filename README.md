@@ -14,7 +14,14 @@ HardHead Detection for Safety Surveilance
 
 ## **Collab Implemenetation**
 
-The entire object detection implementation pipeline can be found here **[colab_notebook](https://colab.research.google.com/drive/1Z3Y62pOOKiU1cuIMkFWf5j2udOcW14N5?usp=sharing)**
+The entire **Helmet/Head object detection** implementation pipeline using **YoloV3** can be found here **[colab_notebook](https://colab.research.google.com/drive/1Z3Y62pOOKiU1cuIMkFWf5j2udOcW14N5?usp=sharing)**
+
+## **Sample Result**
+
+Sample Helmet and Head detection results can be found here.
+
+[]
+[]
 
 ## **Reference:**
 
