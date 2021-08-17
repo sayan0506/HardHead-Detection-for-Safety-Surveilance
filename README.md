@@ -35,7 +35,7 @@ Here also helmet detection result is quite good enough
 ## **Note :**
 
 * The project details and workings files can be found here - [Drive Link](https://drive.google.com/drive/folders/1zKN6qu5KjsXS4mlESZPjD_TKHf9-Zfcc?usp=sharing)
-* A guide to the project documentation can be found [here]()
+* A guide to the project documentation can be found [here](https://github.com/sayan0506/HardHead-Detection-for-Safety-Surveilance-using-YoloV3/blob/main/Project%20Submission.pdf)
 
 ## **Reference:**
 
